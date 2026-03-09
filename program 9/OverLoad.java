@@ -12,7 +12,7 @@ public class OverLoad{
   double z=3.14 *x *x;
   System.out.println("the area of the circle is " +z +"sq units");
  }
-
+  class Over_Load{
   public static void main(String[] args){
   OverLoad ob=new OverLoad();
   Scanner sc=new Scanner(System.in);
